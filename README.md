@@ -5,6 +5,6 @@ up to 126 stages in the game be the first one to beat it!
 
 
 special thanks to:
-1: sammy923
-2: foundationisnotgood_12
-3: IAMN0TFORSAL_E
+sammy923
+foundationisnotgood_12
+IAMN0TFORSAL_E
