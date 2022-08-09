@@ -8,3 +8,4 @@ special thanks to:
 sammy923
 foundationisnotgood_12
 IAMN0TFORSAL_E
+for helping me code the game and design it
